@@ -1,0 +1,3 @@
+original_cluster_id,centralizedCompanyId,companyName,city,state,latitude,longitude,ensemble_confidence,rejection_reason
+2,C003,Tech Solutions LLC,Boston,MA,42.3601,-71.0589,0.32,Manual rejection - low confidence cluster
+2,C004,Tech Solutions Limited,Boston,MA,42.3601,-71.0589,0.38,Manual rejection - low confidence cluster

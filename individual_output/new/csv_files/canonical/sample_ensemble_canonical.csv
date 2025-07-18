@@ -1,0 +1,7 @@
+canonical_id,original_id,company_name,timezone,cluster_size,created_at,updated_at
+CANON_0,COMP001,Acme Corporation Inc,America/New_York,1,2023-01-01,2023-12-01
+CANON_1,COMP003,ACME Corporation,America/New_York,2,2023-01-03,2023-12-03
+CANON_2,COMP004,Tech Solutions LLC,America/New_York,1,2023-01-04,2023-12-04
+CANON_3,COMP005,Acme Corporation,America/Los_Angeles,1,2023-01-05,2023-12-05
+CANON_4,COMP006,Acme Technologies,America/New_York,1,2023-01-06,2023-12-06
+CANON_5,COMP007,Global Industries Ltd,America/Chicago,1,2023-01-07,2023-12-07

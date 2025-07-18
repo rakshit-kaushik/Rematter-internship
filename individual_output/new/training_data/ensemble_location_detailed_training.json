@@ -1,0 +1,1250 @@
+[
+  {
+    "cluster_id": "1323",
+    "cluster_size": 2,
+    "avg_confidence": 0.5976666666666666,
+    "min_confidence": 0.5976666666666666,
+    "max_confidence": 0.5976666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "01b77372-8d0b-4956-8874-7583e4e35679",
+        "companyName": "Conma Industries Pty Ltd",
+        "city": "Edwardstown",
+        "state": "SA",
+        "latitude": -34.98988,
+        "longitude": 138.57329,
+        "ensemble_confidence": 0.5976666666666666,
+        "clean_name": "conma industries pty ltd"
+      },
+      {
+        "centralizedCompanyId": "c35b59ff-9fb9-4409-98ef-9a2d546db076",
+        "companyName": "Conmar Industries Pty Ltd",
+        "city": "Edwardstown",
+        "state": "SA",
+        "latitude": -34.98988,
+        "longitude": 138.57329,
+        "ensemble_confidence": 0.5976666666666666,
+        "clean_name": "conmar industries pty ltd"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "3810",
+    "cluster_size": 2,
+    "avg_confidence": 0.5954166666666666,
+    "min_confidence": 0.5954166666666666,
+    "max_confidence": 0.5954166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "0501a270-bb13-11ee-b7c3-e3fe29dbf4a2",
+        "companyName": "99 Camry-$290 WDSM",
+        "city": "West Des Moines",
+        "state": "Iowa",
+        "latitude": 41.564226,
+        "longitude": -93.72950639999999,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "99 camry 290 wdsm"
+      },
+      {
+        "centralizedCompanyId": "bb20e9e0-c9a4-11ee-8dbe-e9f1a3aad9c2",
+        "companyName": "99 Camry-$290",
+        "city": "West Des Moines",
+        "state": "Iowa",
+        "latitude": 41.564226,
+        "longitude": -93.72950639999999,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "99 camry 290"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "4766",
+    "cluster_size": 2,
+    "avg_confidence": 0.5979166666666667,
+    "min_confidence": 0.5979166666666667,
+    "max_confidence": 0.5979166666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "063b3155-f3be-4e5c-b098-713f52b62151",
+        "companyName": "Venture Metals Intl",
+        "city": "Houston",
+        "state": "TX",
+        "latitude": 29.89127,
+        "longitude": -95.36836,
+        "ensemble_confidence": 0.5979166666666667,
+        "clean_name": "venture metals intl"
+      },
+      {
+        "centralizedCompanyId": "5b2a9ed1-ee84-4b83-bbc7-c1afb7a12d32",
+        "companyName": "Venture Metals",
+        "city": "Houston",
+        "state": "TX",
+        "latitude": 29.89127,
+        "longitude": -95.36836,
+        "ensemble_confidence": 0.5979166666666667,
+        "clean_name": "venture metals"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "5502",
+    "cluster_size": 2,
+    "avg_confidence": 0.5979166666666667,
+    "min_confidence": 0.5979166666666667,
+    "max_confidence": 0.5979166666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "07318380-9227-11ef-ac7f-29b3aea1efa7",
+        "companyName": "Age Rigging",
+        "city": "Bell",
+        "state": "California",
+        "latitude": 33.9887417,
+        "longitude": -118.1647456,
+        "ensemble_confidence": 0.5979166666666667,
+        "clean_name": "age rigging"
+      },
+      {
+        "centralizedCompanyId": "56e637b0-9621-11ef-8841-9fe6abc137b2",
+        "companyName": "New Age Rigging",
+        "city": "Bell",
+        "state": "California",
+        "latitude": 33.9887417,
+        "longitude": -118.1647456,
+        "ensemble_confidence": 0.5979166666666667,
+        "clean_name": "new age rigging"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "10392",
+    "cluster_size": 2,
+    "avg_confidence": 0.5991666666666666,
+    "min_confidence": 0.5991666666666666,
+    "max_confidence": 0.5991666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "0db59290-d875-11ed-bb18-8f86ef0e8269",
+        "companyName": "03 Suburban-$675",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "latitude": 41.2179444,
+        "longitude": -95.9856555,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "03 suburban 675"
+      },
+      {
+        "centralizedCompanyId": "e2b7bd50-cf02-11ed-9ace-e797d67983af",
+        "companyName": "03 Suburban-$675 Gray",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "latitude": 41.2179444,
+        "longitude": -95.9856555,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "03 suburban 675 gray"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "11445",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "0f0d5391-cf3b-4c12-b8e7-3be38b388987",
+        "companyName": "EMCON SERVICES - BROOKS",
+        "city": "Oyen",
+        "state": "AB",
+        "latitude": 51.354427,
+        "longitude": -110.483583,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "emcon services brooks"
+      },
+      {
+        "centralizedCompanyId": "5c183f8f-bdb9-470b-83cd-f31e97da763d",
+        "companyName": "EMCON SERVICES",
+        "city": "OYEN",
+        "state": "AB",
+        "latitude": 51.354427,
+        "longitude": -110.483583,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "emcon services"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "18529",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "183e1a1f-4adf-4845-bad2-b65184d0c59b",
+        "companyName": "Kirby Risk",
+        "city": "Indianapolis",
+        "state": "IN",
+        "latitude": 39.739306,
+        "longitude": -86.231776,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "kirby risk"
+      },
+      {
+        "centralizedCompanyId": "f3882d6b-7644-4875-8894-011f26690dde",
+        "companyName": "Kirby Risk -Indy",
+        "city": "Indianapolis",
+        "state": "IN",
+        "latitude": 39.739306,
+        "longitude": -86.231776,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "kirby risk indy"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "19037",
+    "cluster_size": 2,
+    "avg_confidence": 0.5934166666666667,
+    "min_confidence": 0.5934166666666667,
+    "max_confidence": 0.5934166666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "18eaaf5f-bec1-4daf-9c47-e27cffbb3c21",
+        "companyName": "Corbin Hufcor Inc",
+        "city": "Rockland",
+        "state": "MA",
+        "latitude": 42.15721,
+        "longitude": -70.90697,
+        "ensemble_confidence": 0.5934166666666667,
+        "clean_name": "corbin hufcor inc"
+      },
+      {
+        "centralizedCompanyId": "b4f28bd8-65d5-439e-bac0-cb3f4448c236",
+        "companyName": "Corbin-Hufcor ",
+        "city": "Rockland",
+        "state": "MA",
+        "latitude": 42.15721,
+        "longitude": -70.90697,
+        "ensemble_confidence": 0.5934166666666667,
+        "clean_name": "corbin hufcor"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "22894",
+    "cluster_size": 2,
+    "avg_confidence": 0.5954166666666666,
+    "min_confidence": 0.5954166666666666,
+    "max_confidence": 0.5954166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "1e1b77fa-5659-4bc6-a831-05328aeb64db",
+        "companyName": "Burns Ford Inc.",
+        "city": "Burns",
+        "state": "OR",
+        "latitude": 43.5873,
+        "longitude": -119.05495,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "burns ford inc"
+      },
+      {
+        "centralizedCompanyId": "953a912b-94ce-4538-b5d0-c4cd540da359",
+        "companyName": "Burns Ford",
+        "city": "Burns",
+        "state": "OR",
+        "latitude": 43.5873,
+        "longitude": -119.05495,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "burns ford"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "23329",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "1eb13f80-475c-11ee-bcfe-a1ea10e4cd30",
+        "companyName": "97 Lesabre-$245",
+        "city": "Huxley",
+        "state": "Iowa",
+        "latitude": 41.8940292,
+        "longitude": -93.6077322,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "97 lesabre 245"
+      },
+      {
+        "centralizedCompanyId": "8012db20-428f-11ee-a571-c7ef146c8f76",
+        "companyName": "97 Lesabre-$245 Huxley",
+        "city": "Huxley",
+        "state": "Iowa",
+        "latitude": 41.8940292,
+        "longitude": -93.6077322,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "97 lesabre 245 huxley"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "24620",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "206d45ec-6041-4778-b3ff-395364ccc7d6",
+        "companyName": "Waste Management",
+        "city": "Sanford",
+        "state": "NC",
+        "latitude": 35.50431,
+        "longitude": -79.2042,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "waste management"
+      },
+      {
+        "centralizedCompanyId": "752fda26-9f99-49d9-b06b-e3fcce911e65",
+        "companyName": "Waste Management Sanford",
+        "city": "Sanford",
+        "state": "NC",
+        "latitude": 35.50431,
+        "longitude": -79.204223,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "waste management sanford"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "26782",
+    "cluster_size": 2,
+    "avg_confidence": 0.5941666666666666,
+    "min_confidence": 0.5941666666666666,
+    "max_confidence": 0.5941666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "236540a4-59bc-4daf-8cf2-34794e374666",
+        "companyName": "California  Auto Parts",
+        "city": "Modesto",
+        "state": "95351",
+        "latitude": 37.62106,
+        "longitude": -120.98498,
+        "ensemble_confidence": 0.5941666666666666,
+        "clean_name": "california auto parts"
+      },
+      {
+        "centralizedCompanyId": "8faa5ed6-6429-47a4-99af-e83ad7a3607a",
+        "companyName": "California  Auto Parts & Auto Dismantler",
+        "city": "Modesto",
+        "state": "CA",
+        "latitude": 37.62106,
+        "longitude": -120.98498,
+        "ensemble_confidence": 0.5941666666666666,
+        "clean_name": "california auto parts auto dismantler"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "30344",
+    "cluster_size": 2,
+    "avg_confidence": 0.5991666666666666,
+    "min_confidence": 0.5991666666666666,
+    "max_confidence": 0.5991666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "28286ef0-2b96-11ec-9bf3-4be79aed09b8",
+        "companyName": "Metro Direct Ltd",
+        "city": "Whang\u0101rei",
+        "state": "Northland Region",
+        "latitude": -35.7310531,
+        "longitude": 174.3192449,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "metro direct ltd"
+      },
+      {
+        "centralizedCompanyId": "b486cbe0-2cad-11ec-99d6-d18a0bf7d926",
+        "companyName": "Metro Direct",
+        "city": "Whang\u0101rei",
+        "state": "Northland",
+        "latitude": -35.7310721,
+        "longitude": 174.3192434,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "metro direct"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "31159",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "29557fe0-8abb-11ed-95e2-53c71f1ae91f",
+        "companyName": "06 Sebring-$425 ",
+        "city": "Gretna",
+        "state": "Nebraska",
+        "latitude": 41.1333975,
+        "longitude": -96.2403118,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "06 sebring 425"
+      },
+      {
+        "centralizedCompanyId": "e683a620-7e34-11ed-bb3d-d16a51d94e86",
+        "companyName": "06 Sebring-$425 Gretna",
+        "city": "Gretna",
+        "state": "Nebraska",
+        "latitude": 41.1333975,
+        "longitude": -96.2403118,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "06 sebring 425 gretna"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "38284",
+    "cluster_size": 2,
+    "avg_confidence": 0.5991666666666666,
+    "min_confidence": 0.5991666666666666,
+    "max_confidence": 0.5991666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "330af610-d0d2-11ee-ac45-5f7b2908f782",
+        "companyName": "Hawks Auto & Truck Recycling ",
+        "city": "Trenton",
+        "state": "New Jersey",
+        "latitude": 40.2302557,
+        "longitude": -74.75093249999999,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "hawks auto truck recycling"
+      },
+      {
+        "centralizedCompanyId": "b8826c10-3cce-11f0-8d40-8d7ef236cad9",
+        "companyName": "Hawks Auto & Truck",
+        "city": "Trenton",
+        "state": "New Jersey",
+        "latitude": 40.2302562,
+        "longitude": -74.7509201,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "hawks auto truck"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "45895",
+    "cluster_size": 2,
+    "avg_confidence": 0.5929166666666666,
+    "min_confidence": 0.5929166666666666,
+    "max_confidence": 0.5929166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "3d4c5f2f-d716-4d2f-84e5-21b5787b8b30",
+        "companyName": "Puebla Tire Shop",
+        "city": "Gary",
+        "state": "Indiana",
+        "latitude": 41.57381,
+        "longitude": -87.4127,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "puebla tire shop"
+      },
+      {
+        "centralizedCompanyId": "a520c4d9-5776-4af8-8221-f8587eae7cb7",
+        "companyName": "Puebla Tire",
+        "city": "Gary",
+        "state": "Indiana",
+        "latitude": 41.57381,
+        "longitude": -87.4127,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "puebla tire"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "46076",
+    "cluster_size": 2,
+    "avg_confidence": 0.5954166666666666,
+    "min_confidence": 0.5954166666666666,
+    "max_confidence": 0.5954166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "3d8beeb6-fa53-4e79-8528-1d40d76401eb",
+        "companyName": "Everson Cordage Works",
+        "city": "Everson",
+        "state": "Wa",
+        "latitude": 48.909681,
+        "longitude": -122.360082,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "everson cordage works"
+      },
+      {
+        "centralizedCompanyId": "e5774932-c756-4f95-ba99-3e7a48750b51",
+        "companyName": "Everson Cordage",
+        "city": "Everson",
+        "state": "WA",
+        "latitude": 48.909681,
+        "longitude": -122.360082,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "everson cordage"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "49830",
+    "cluster_size": 2,
+    "avg_confidence": 0.5966666666666666,
+    "min_confidence": 0.5966666666666666,
+    "max_confidence": 0.5966666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "429c82a0-c193-11ed-9c1e-8fcd91e80a8c",
+        "companyName": "Midwest Industrial Metals",
+        "city": "Northlake",
+        "state": "Illinois",
+        "latitude": 41.9273435,
+        "longitude": -87.9180049,
+        "ensemble_confidence": 0.5966666666666666,
+        "clean_name": "midwest industrial metals"
+      },
+      {
+        "centralizedCompanyId": "7bd9d650-952f-11ef-9cb4-071ef3d414d1",
+        "companyName": "Midwest Industrial",
+        "city": "Northlake",
+        "state": "Illinois",
+        "latitude": 41.9273435,
+        "longitude": -87.9180049,
+        "ensemble_confidence": 0.5966666666666666,
+        "clean_name": "midwest industrial"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "52413",
+    "cluster_size": 2,
+    "avg_confidence": 0.5929166666666666,
+    "min_confidence": 0.5929166666666666,
+    "max_confidence": 0.5929166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "463668f0-472f-11ee-9be5-4bf3c49a6300",
+        "companyName": "02 Trailblazer-$450 L",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "latitude": 40.78714790000001,
+        "longitude": -96.7476367,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "02 trailblazer 450 l"
+      },
+      {
+        "centralizedCompanyId": "d17463d0-476c-11ee-921a-b3180a7dddcb",
+        "companyName": "02 Trailblazer $450 L Friday",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "latitude": 40.78714790000001,
+        "longitude": -96.7476367,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "02 trailblazer 450 l friday"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "53624",
+    "cluster_size": 2,
+    "avg_confidence": 0.5986666666666666,
+    "min_confidence": 0.5986666666666666,
+    "max_confidence": 0.5986666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "47e91518-0b05-47a2-b250-5a46711d5eb7",
+        "companyName": "Jeffrey'S Jewelry Design Studio",
+        "city": "Federal Way",
+        "state": "WA",
+        "latitude": 47.31205,
+        "longitude": -122.31753,
+        "ensemble_confidence": 0.5986666666666666,
+        "clean_name": "jeffrey s jewelry design studio"
+      },
+      {
+        "centralizedCompanyId": "ffd3e8c9-746b-40e5-909c-7302b8c8fb2e",
+        "companyName": "Jefrey'S Jewelry Design Studio",
+        "city": "Federal Way",
+        "state": "WA",
+        "latitude": 47.31205,
+        "longitude": -122.31753,
+        "ensemble_confidence": 0.5986666666666666,
+        "clean_name": "jefrey s jewelry design studio"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "56075",
+    "cluster_size": 2,
+    "avg_confidence": 0.5971666666666666,
+    "min_confidence": 0.5971666666666666,
+    "max_confidence": 0.5971666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "4b81d157-ed03-4fb4-af7f-aea6d276791a",
+        "companyName": "Bj's Tire & Rubber Recycling, Inc.",
+        "city": "Fontana",
+        "state": "CA",
+        "latitude": 34.05654,
+        "longitude": -117.49519,
+        "ensemble_confidence": 0.5971666666666666,
+        "clean_name": "bj s tire rubber recycling inc"
+      },
+      {
+        "centralizedCompanyId": "87ded27c-3859-4575-a650-e11cecc73148",
+        "companyName": "B.J. USed Tire & Rubber Recycling, Inc.",
+        "city": "Fontana",
+        "state": "CA",
+        "latitude": 34.05654,
+        "longitude": -117.49519,
+        "ensemble_confidence": 0.5971666666666666,
+        "clean_name": "b j used tire rubber recycling inc"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "62134",
+    "cluster_size": 2,
+    "avg_confidence": 0.5929166666666666,
+    "min_confidence": 0.5929166666666666,
+    "max_confidence": 0.5929166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "541a0c80-ab0a-11ee-acb5-9ba3642bb357",
+        "companyName": "05 F250 $800",
+        "city": "Bellevue",
+        "state": "Nebraska",
+        "latitude": 41.1272449,
+        "longitude": -95.8974557,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "05 f250 800"
+      },
+      {
+        "centralizedCompanyId": "cce24710-ab0d-11ee-8572-5ffc8308e3f1",
+        "companyName": "05 F250 $800, Bell",
+        "city": "Bellevue",
+        "state": "Nebraska",
+        "latitude": 41.1272449,
+        "longitude": -95.8974557,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "05 f250 800 bell"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "65072",
+    "cluster_size": 2,
+    "avg_confidence": 0.5926666666666666,
+    "min_confidence": 0.5926666666666666,
+    "max_confidence": 0.5926666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "5840884b-1349-4463-889e-ac7a2bd04177",
+        "companyName": "DisposAll Waste Services LLC",
+        "city": "Cicero",
+        "state": "Illinois",
+        "latitude": 41.83347,
+        "longitude": -87.76847,
+        "ensemble_confidence": 0.5926666666666666,
+        "clean_name": "disposall waste services llc"
+      },
+      {
+        "centralizedCompanyId": "ab65cb02-bbe5-4bd1-a677-d85616751632",
+        "companyName": "DO NOT USE\nDisposAll Waste Services, LLC",
+        "city": "Cicero",
+        "state": "Illinois",
+        "latitude": 41.83347,
+        "longitude": -87.76847,
+        "ensemble_confidence": 0.5926666666666666,
+        "clean_name": "do not use disposall waste services llc"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "66442",
+    "cluster_size": 2,
+    "avg_confidence": 0.5929166666666666,
+    "min_confidence": 0.5929166666666666,
+    "max_confidence": 0.5929166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "5a2033b0-e1db-11ec-85c1-c385dbf9ad80",
+        "companyName": "Orange Lake Farm",
+        "city": "",
+        "state": "Ontario",
+        "latitude": 43.7063737,
+        "longitude": -80.52374329999999,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "orange lake farm"
+      },
+      {
+        "centralizedCompanyId": "5d6fb010-e38c-11ec-adfd-4d7c3936d958",
+        "companyName": "Orange Lake ",
+        "city": "",
+        "state": "Ontario",
+        "latitude": 43.7063737,
+        "longitude": -80.52374329999999,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "orange lake"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "69427",
+    "cluster_size": 2,
+    "avg_confidence": 0.5991666666666666,
+    "min_confidence": 0.5991666666666666,
+    "max_confidence": 0.5991666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "5e530b30-64f1-11ed-aee9-c1465cb29d3e",
+        "companyName": "97 Explorer $550",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "latitude": 41.1660449,
+        "longitude": -96.1396017,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "97 explorer 550"
+      },
+      {
+        "centralizedCompanyId": "e34448f0-7639-11ed-8216-cb0abf36d136",
+        "companyName": "97 Explorer $550 (S145)",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "latitude": 41.1660449,
+        "longitude": -96.1396017,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "97 explorer 550 s145"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "71284",
+    "cluster_size": 2,
+    "avg_confidence": 0.5926666666666666,
+    "min_confidence": 0.5926666666666666,
+    "max_confidence": 0.5926666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "60eff960-85b1-11ef-98c7-59d6997afc25",
+        "companyName": "DEFENSE IRON & METAL CORP",
+        "city": "Poland",
+        "state": "New York",
+        "latitude": 43.1477223,
+        "longitude": -75.05278899999999,
+        "ensemble_confidence": 0.5926666666666666,
+        "clean_name": "defense iron metal corp"
+      },
+      {
+        "centralizedCompanyId": "b1c06c00-85b4-11ef-a18d-b73c77f660f2",
+        "companyName": "DEFENCE IRON & METAL CORP",
+        "city": "Poland",
+        "state": "New York",
+        "latitude": 43.1477223,
+        "longitude": -75.05278899999999,
+        "ensemble_confidence": 0.5926666666666666,
+        "clean_name": "defence iron metal corp"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "74640",
+    "cluster_size": 2,
+    "avg_confidence": 0.5929166666666666,
+    "min_confidence": 0.5929166666666666,
+    "max_confidence": 0.5929166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "65ac2ddb-f30a-43d2-9863-ef8c58482ae4",
+        "companyName": "Auto Express/Jesus Antonio Garcia-Tavizon",
+        "city": "Chicago",
+        "state": "IL",
+        "latitude": 41.81731,
+        "longitude": -87.68993,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "auto express jesus antonio garcia tavizon"
+      },
+      {
+        "centralizedCompanyId": "6f5fa956-49ad-42e5-9333-727e680892d3",
+        "companyName": "Jesus Antonio Garcia-Tavizon",
+        "city": "Chicago",
+        "state": "IL",
+        "latitude": 41.81731,
+        "longitude": -87.68993,
+        "ensemble_confidence": 0.5929166666666666,
+        "clean_name": "jesus antonio garcia tavizon"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "75975",
+    "cluster_size": 2,
+    "avg_confidence": 0.5939166666666666,
+    "min_confidence": 0.5939166666666666,
+    "max_confidence": 0.5939166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "6795b290-4071-11ee-bf3d-d5222ca41c96",
+        "companyName": "99 Suburban LOT Eagle",
+        "city": "Eagle",
+        "state": "Nebraska",
+        "latitude": 40.8159235,
+        "longitude": -96.4356729,
+        "ensemble_confidence": 0.5939166666666666,
+        "clean_name": "99 suburban lot eagle"
+      },
+      {
+        "centralizedCompanyId": "a6df2cb0-4071-11ee-9ba0-9f195e7e57de",
+        "companyName": "99 Suburban-$475 LOT Eagle",
+        "city": "Eagle",
+        "state": "Nebraska",
+        "latitude": 40.8159235,
+        "longitude": -96.4356729,
+        "ensemble_confidence": 0.5939166666666666,
+        "clean_name": "99 suburban 475 lot eagle"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "80512",
+    "cluster_size": 2,
+    "avg_confidence": 0.5954166666666666,
+    "min_confidence": 0.5954166666666666,
+    "max_confidence": 0.5954166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "6e5131c8-a013-4f09-8d5b-37c7e9540e84",
+        "companyName": "Palmer Gas",
+        "city": "Atkinson",
+        "state": "New Hampshire",
+        "latitude": 42.855638,
+        "longitude": -71.196665,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "palmer gas"
+      },
+      {
+        "centralizedCompanyId": "8ca2fb2b-56d8-49fb-bc39-7da7892b2787",
+        "companyName": "Palmer Gas & Oil",
+        "city": "Atkinson",
+        "state": "New Hampshire",
+        "latitude": 42.855638,
+        "longitude": -71.196665,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "palmer gas oil"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "89237",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "7ab0a4e6-f786-44ed-9f2f-d260f2af39cf",
+        "companyName": "BERNARD GIBEAU",
+        "city": "Bassano",
+        "state": "AB",
+        "latitude": 50.449739,
+        "longitude": -112.45688,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "bernard gibeau"
+      },
+      {
+        "centralizedCompanyId": "bdd60ce6-eb3a-4b8d-9dba-7ec8024d51e8",
+        "companyName": "BERNARD GIBEAU REPAIR",
+        "city": "Bassano",
+        "state": "AB",
+        "latitude": 50.449739,
+        "longitude": -112.45688,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "bernard gibeau repair"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "90081",
+    "cluster_size": 2,
+    "avg_confidence": 0.5989166666666667,
+    "min_confidence": 0.5989166666666667,
+    "max_confidence": 0.5989166666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "7be99ab0-0c53-11ee-b20c-67d8bc7339ad",
+        "companyName": "05 Grand Prix-$425 LOT Waverly",
+        "city": "Waverly",
+        "state": "Nebraska",
+        "latitude": 40.9125272,
+        "longitude": -96.5313355,
+        "ensemble_confidence": 0.5989166666666667,
+        "clean_name": "05 grand prix 425 lot waverly"
+      },
+      {
+        "centralizedCompanyId": "f013f650-0baa-11ee-ab00-0b6bfbe73653",
+        "companyName": "05 grand prix $425, waverly ",
+        "city": "Waverly",
+        "state": "Nebraska",
+        "latitude": 40.9125272,
+        "longitude": -96.5313355,
+        "ensemble_confidence": 0.5989166666666667,
+        "clean_name": "05 grand prix 425 waverly"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "90155",
+    "cluster_size": 2,
+    "avg_confidence": 0.5966666666666666,
+    "min_confidence": 0.5966666666666666,
+    "max_confidence": 0.5966666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "7c03be10-4a94-11ef-bedd-e5f8b04342a7",
+        "companyName": "Hodges Collision",
+        "city": "Tyler",
+        "state": "Texas",
+        "latitude": 32.321671,
+        "longitude": -95.44146599999999,
+        "ensemble_confidence": 0.5966666666666666,
+        "clean_name": "hodges collision"
+      },
+      {
+        "centralizedCompanyId": "97b9ec30-5663-11ef-a872-03bebaf6a85c",
+        "companyName": "Keith Hodges Collision",
+        "city": "Tyler",
+        "state": "Texas",
+        "latitude": 32.321671,
+        "longitude": -95.44146599999999,
+        "ensemble_confidence": 0.5966666666666666,
+        "clean_name": "keith hodges collision"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "90237",
+    "cluster_size": 2,
+    "avg_confidence": 0.5979166666666667,
+    "min_confidence": 0.5979166666666667,
+    "max_confidence": 0.5979166666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "7c227aea-21d7-4856-8148-b269a80133fb",
+        "companyName": "Western Equipment",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "latitude": 43.00005,
+        "longitude": -85.67784,
+        "ensemble_confidence": 0.5979166666666667,
+        "clean_name": "western equipment"
+      },
+      {
+        "centralizedCompanyId": "dbb2ab46-3b26-43b6-91fd-4caff22d17d3",
+        "companyName": "Western Equipment - Metal",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "latitude": 43.00005,
+        "longitude": -85.67784,
+        "ensemble_confidence": 0.5979166666666667,
+        "clean_name": "western equipment metal"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "95506",
+    "cluster_size": 2,
+    "avg_confidence": 0.5991666666666666,
+    "min_confidence": 0.5991666666666666,
+    "max_confidence": 0.5991666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "83d44c35-f27d-4def-89e2-03782744bb9d",
+        "companyName": "Bench Garage",
+        "city": "Boise",
+        "state": "ID",
+        "latitude": 43.59994,
+        "longitude": -116.21309,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "bench garage"
+      },
+      {
+        "centralizedCompanyId": "c6f8ddea-2165-4ced-9a68-689ad8788179",
+        "companyName": "Bench Garage Llc",
+        "city": "Boise",
+        "state": "ID",
+        "latitude": 43.59994,
+        "longitude": -116.21309,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "bench garage llc"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "102296",
+    "cluster_size": 2,
+    "avg_confidence": 0.5984166666666667,
+    "min_confidence": 0.5984166666666667,
+    "max_confidence": 0.5984166666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "8da91390-0e08-11ef-bdbf-1520ffe562d9",
+        "companyName": "LKQ Best Automotive Corp",
+        "city": "Fairless Hills",
+        "state": "Pennsylvania",
+        "latitude": 40.1896322,
+        "longitude": -74.7847216,
+        "ensemble_confidence": 0.5984166666666667,
+        "clean_name": "lkq best automotive corp"
+      },
+      {
+        "centralizedCompanyId": "b4192e70-5011-11ef-91eb-9be0872c806a",
+        "companyName": "LKQ Corportation - Best Automotive Corp",
+        "city": "Fairless Hills",
+        "state": "Pennsylvania",
+        "latitude": 40.1896322,
+        "longitude": -74.7847216,
+        "ensemble_confidence": 0.5984166666666667,
+        "clean_name": "lkq corportation best automotive corp"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "130912",
+    "cluster_size": 2,
+    "avg_confidence": 0.5991666666666666,
+    "min_confidence": 0.5991666666666666,
+    "max_confidence": 0.5991666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "b83ffd00-27b1-11ee-a382-e97b3ae4b518",
+        "companyName": "RUSTYS TRANSPORT - SELL",
+        "city": "Lightning Ridge",
+        "state": "New South Wales",
+        "latitude": -29.4114089,
+        "longitude": 147.9794433,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "rustys transport sell"
+      },
+      {
+        "centralizedCompanyId": "d7faea1c-57e0-462b-8bec-91c9b2ac0d03",
+        "companyName": "RUSTYS TRANSPORT",
+        "city": "Lightning Ridge",
+        "state": "New South Wales",
+        "latitude": -29.4114089,
+        "longitude": 147.9794433,
+        "ensemble_confidence": 0.5991666666666666,
+        "clean_name": "rustys transport"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "134691",
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "bde7c157-0b67-47ad-b003-a5d68bd9d0ca",
+        "companyName": "Interstate Batteries",
+        "city": "Dallas",
+        "state": "TX",
+        "latitude": 32.9227,
+        "longitude": -96.77194,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "interstate batteries"
+      },
+      {
+        "centralizedCompanyId": "f081f6f6-e2d5-4a32-b5e3-ff2fa91cbd88",
+        "companyName": "Interstate Batteries Recycling",
+        "city": "Dallas",
+        "state": "TX",
+        "latitude": 32.9227,
+        "longitude": -96.77194,
+        "ensemble_confidence": 0.5916666666666667,
+        "clean_name": "interstate batteries recycling"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "138432",
+    "cluster_size": 2,
+    "avg_confidence": 0.5954166666666666,
+    "min_confidence": 0.5954166666666666,
+    "max_confidence": 0.5954166666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "c378af90-d761-11ee-bd26-15ee3dd807f3",
+        "companyName": "01 MPV-$290",
+        "city": "Des Moines",
+        "state": "Iowa",
+        "latitude": 41.6323514,
+        "longitude": -93.6972541,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "01 mpv 290"
+      },
+      {
+        "centralizedCompanyId": "d7bd04d0-da4d-11ee-b025-97ca41772a75",
+        "companyName": "01 MPV-$290 Dsm",
+        "city": "Des Moines",
+        "state": "Iowa",
+        "latitude": 41.6323514,
+        "longitude": -93.6972541,
+        "ensemble_confidence": 0.5954166666666666,
+        "clean_name": "01 mpv 290 dsm"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  },
+  {
+    "cluster_id": "144680",
+    "cluster_size": 2,
+    "avg_confidence": 0.5941666666666666,
+    "min_confidence": 0.5941666666666666,
+    "max_confidence": 0.5941666666666666,
+    "confidence_range": 0.0,
+    "companies": [
+      {
+        "centralizedCompanyId": "ccd8ba85-4697-4629-9408-9fc6aac9bf7b",
+        "companyName": "CARSTAR Monmouth Collision",
+        "city": "Freehold",
+        "state": "NJ",
+        "latitude": 40.261393,
+        "longitude": -74.279,
+        "ensemble_confidence": 0.5941666666666666,
+        "clean_name": "carstar monmouth collision"
+      },
+      {
+        "centralizedCompanyId": "f5361b20-b36d-4446-891d-a85b1885e37d",
+        "companyName": "Monmouth Collision",
+        "city": "Freehold",
+        "state": "NJ",
+        "latitude": 40.261393,
+        "longitude": -74.279,
+        "ensemble_confidence": 0.5941666666666666,
+        "clean_name": "monmouth collision"
+      }
+    ],
+    "user_decision": 1,
+    "decision_label": "APPROVED"
+  }
+]

@@ -1,0 +1,8 @@
+centralizedCompanyId,companyName,latitude,longitude,city,state,streetAddress,timezone,createdAt,updatedAt,clean_name,blocking_key,cluster_id,ensemble_confidence
+COMP001,Acme Corporation Inc,40.7128,-74.006,New York,NY,123 Main St,America/New_York,2023-01-01,2023-12-01,acme corporation inc,"40.7128,-74.006",0,0.0
+COMP002,Acme Corp,40.7128,-74.006,New York,NY,123 Main St,America/New_York,2023-01-02,2023-12-02,acme corp,"40.7128,-74.006",1,0.8333333333333333
+COMP003,ACME Corporation,40.7128,-74.006,New York,NY,123 Main St,America/New_York,2023-01-03,2023-12-03,acme corp,"40.7128,-74.006",1,0.8333333333333333
+COMP004,Tech Solutions LLC,40.7128,-74.006,New York,NY,123 Main St,America/New_York,2023-01-04,2023-12-04,tech solutions llc,"40.7128,-74.006",2,0.0
+COMP005,Acme Corporation,34.0522,-118.2437,Los Angeles,CA,456 Oak Ave,America/Los_Angeles,2023-01-05,2023-12-05,acme corp,"34.0522,-118.2437",3,0.0
+COMP006,Acme Technologies,40.7128,-74.006,New York,NY,123 Main St,America/New_York,2023-01-06,2023-12-06,acme technologies,"40.7128,-74.006",4,0.0
+COMP007,Global Industries Ltd,41.8781,-87.6298,Chicago,IL,789 Pine St,America/Chicago,2023-01-07,2023-12-07,global industries ltd,"41.8781,-87.6298",5,0.0

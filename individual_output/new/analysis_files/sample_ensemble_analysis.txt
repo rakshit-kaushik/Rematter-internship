@@ -1,0 +1,70 @@
+DETAILED CLUSTER ANALYSIS (SAMPLE_ENSEMBLE)
+============================================================
+
+overall statistics:
+-----------------
+total number of clusters: 5
+total companies in clusters: 7
+total unclustered companies: 0
+average cluster size: 1.40
+
+cluster size distribution:
+------------------------
+clusters with 1 companies: 5
+clusters with 2 companies: 1
+
+detailed cluster information:
+---------------------------
+
+cluster 0 (size: 1):
+--------------------------------------------------
+company: Acme Corporation Inc
+  timezone: America/New_York
+  last updated: 2023-12-01
+  id: COMP001
+------------------------------
+
+cluster 1 (size: 2):
+--------------------------------------------------
+company: ACME Corporation
+  timezone: America/New_York
+  last updated: 2023-12-03
+  id: COMP003
+------------------------------
+company: Acme Corp
+  timezone: America/New_York
+  last updated: 2023-12-02
+  id: COMP002
+------------------------------
+
+cluster 2 (size: 1):
+--------------------------------------------------
+company: Tech Solutions LLC
+  timezone: America/New_York
+  last updated: 2023-12-04
+  id: COMP004
+------------------------------
+
+cluster 3 (size: 1):
+--------------------------------------------------
+company: Acme Corporation
+  timezone: America/Los_Angeles
+  last updated: 2023-12-05
+  id: COMP005
+------------------------------
+
+cluster 4 (size: 1):
+--------------------------------------------------
+company: Acme Technologies
+  timezone: America/New_York
+  last updated: 2023-12-06
+  id: COMP006
+------------------------------
+
+cluster 5 (size: 1):
+--------------------------------------------------
+company: Global Industries Ltd
+  timezone: America/Chicago
+  last updated: 2023-12-07
+  id: COMP007
+------------------------------

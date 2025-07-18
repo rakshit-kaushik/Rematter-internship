@@ -1,0 +1,1604 @@
+[
+  {
+    "cluster_id": "LOC_1640_NAME_9",
+    "location_key": "-3.3558_37.3321",
+    "location_lat": -3.3558,
+    "location_lon": 37.3321,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Zacharia Simon",
+      "Simon Zacharia"
+    ],
+    "company_ids": [
+      "2d237270-3640-11f0-a1ce-5514c89b12c9",
+      "91acbff0-23f6-11f0-ae11-471060ecbe43"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T14:54:31.203961",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_2350_NAME_0",
+    "location_key": "-31.9165_115.9211",
+    "location_lat": -31.9165,
+    "location_lon": 115.9211,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "T & S Stone",
+      "T And S Stone (Js)"
+    ],
+    "company_ids": [
+      "4601fc5b-886f-4643-83b3-bc7aaada5f17",
+      "cb4cfdf8-6edb-4625-9dac-8c8394f2f607"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "Australia/Perth",
+      "Australia/Perth"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:08.765227",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_2605_NAME_0",
+    "location_key": "-31.9966_115.9638",
+    "location_lat": -31.9966,
+    "location_lon": 115.9638,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Tse (Transport Spares And Equipment)",
+      "Transport Spares & Equipment"
+    ],
+    "company_ids": [
+      "a955ef0d-a293-4388-bbb4-07b7892e93b5",
+      "eb39f1d6-34ad-4003-9460-070dae10e3e4"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "Australia/Perth",
+      "Australia/Perth"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:09.451812",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_11578_NAME_0",
+    "location_key": "29.4058_-95.2366",
+    "location_lat": 29.4058,
+    "location_lon": -95.2366,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Y & T International Inc.",
+      "Y And T International Inc."
+    ],
+    "company_ids": [
+      "64f12cde-f771-4510-bb50-4e36cb144b29",
+      "fb235249-8460-4df4-b545-2d9d36eaae3a"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Chicago",
+      "America/Chicago"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:10.095585",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_12062_NAME_0",
+    "location_key": "29.4773_-98.402",
+    "location_lat": 29.4773,
+    "location_lon": -98.402,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "HEB Warehouse Maintenance ",
+      "HEB MAINTENANCE  WAREHOUSE "
+    ],
+    "company_ids": [
+      "507a6ce0-4b9b-11f0-8e84-09db2be8f362",
+      "b24c3c80-0fc5-11f0-be9c-f9bf275f95db"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:10.754315",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_12738_NAME_0",
+    "location_key": "29.5896_-98.3725",
+    "location_lat": 29.5896,
+    "location_lon": -98.3725,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Madison High School",
+      "James Madison High School"
+    ],
+    "company_ids": [
+      "586cbfb1-cc43-40fb-84fa-277c7e2f3b71",
+      "5a94adb5-f14e-4e1e-bba3-bae2dc2f5873"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Chicago",
+      "America/Chicago"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:11.749249",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_19318_NAME_0",
+    "location_key": "30.7994_-83.2887",
+    "location_lat": 30.7994,
+    "location_lon": -83.2887,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "tlc tri state laundry",
+      "tri state laundry"
+    ],
+    "company_ids": [
+      "84d5eb20-eec3-11ef-a6e1-9d91d763a59b",
+      "895eb2d0-2ab4-11f0-8ed7-5f6b29db1c8c"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:12.476550",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_22913_NAME_0",
+    "location_key": "32.5776_-116.9948",
+    "location_lat": 32.5776,
+    "location_lon": -116.9948,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "J and I Auto Dismantling",
+      "J & I Auto Dismantling"
+    ],
+    "company_ids": [
+      "bb4b2090-e2f2-11ee-b5c6-830b4dbf3cb4",
+      "d26fea50-eb8d-11ee-8ad8-bfde3ede5780"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:13.202709",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_28773_NAME_0",
+    "location_key": "33.6436_-84.3104",
+    "location_lat": 33.6436,
+    "location_lon": -84.3104,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "DMR/Southern Auto Salvage",
+      "Southern Auto Salvage"
+    ],
+    "company_ids": [
+      "2f6ffdb0-114c-11ef-b0b1-01e734bb4087",
+      "5f7f9e10-4456-11ef-b889-5393b7bcc461"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:13.874046",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_32496_NAME_0",
+    "location_key": "34.0028_-117.9216",
+    "location_lat": 34.0028,
+    "location_lon": -117.9216,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Sd & Sons Inc.",
+      "Sd And Sons, Inc"
+    ],
+    "company_ids": [
+      "4bc3131f-499c-4112-94a4-c02b38ba9816",
+      "e1d4fc89-b11d-4421-b82f-c5cad2abbc46"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Los_Angeles",
+      "America/Los_Angeles"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:15.909727",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_33207_NAME_0",
+    "location_key": "34.0521_-118.5363",
+    "location_lat": 34.0521,
+    "location_lon": -118.5363,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "J and D Contractors LLC.",
+      "J&D Contractors LLC."
+    ],
+    "company_ids": [
+      "b4cbd480-301c-11f0-a40e-5feaf3823192",
+      "fca99db0-301b-11f0-873e-73c71f50d1a4"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:16.784338",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_36528_NAME_0",
+    "location_key": "34.6244_-77.9535",
+    "location_lat": 34.6244,
+    "location_lon": -77.9535,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "D L Jordan Company",
+      "D J Jordan"
+    ],
+    "company_ids": [
+      "6fbb9e20-5a9f-11ed-8b58-f3d1d4e5a949",
+      "a7526720-e271-11ec-9a1f-2f89027645cd"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:17.799864",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_46773_NAME_1",
+    "location_key": "36.1511_-80.2101",
+    "location_lat": 36.1511,
+    "location_lon": -80.2101,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "W-S/Forsyth County School System",
+      "Forsyth County School System"
+    ],
+    "company_ids": [
+      "cdd3e23c-924f-4936-b0fa-d7a2820cd1b3",
+      "f0e77adc-cd58-4dcf-9126-9da0ab27c0c6"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:18.634926",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_52851_NAME_0",
+    "location_key": "37.0495_-95.9288",
+    "location_lat": 37.0495,
+    "location_lon": -95.9288,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "G AND G DOZER ",
+      "G&G DOZER"
+    ],
+    "company_ids": [
+      "09ef1d70-8fcc-11ee-9939-e5ca10c11b10",
+      "c7ad7250-b45b-11ed-b5fa-abbaa87e2264"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:20.130040",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_54246_NAME_0",
+    "location_key": "37.3409_-120.5053",
+    "location_lat": 37.3409,
+    "location_lon": -120.5053,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Bob Holl Sheet Metal",
+      "Holl Sheet Metal"
+    ],
+    "company_ids": [
+      "beedf9af-9b74-4e51-8d7c-352205323262",
+      "cd70a97a-6112-46d4-9c3c-670be8b5bfb9"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Los_Angeles",
+      "America/Los_Angeles"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:20.932159",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_55766_NAME_0",
+    "location_key": "37.6179_-120.9696",
+    "location_lat": 37.6179,
+    "location_lon": -120.9696,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "DBA GREEN WORLD SERVICES",
+      "Green World Services"
+    ],
+    "company_ids": [
+      "31824240-2053-11f0-9962-73573c3a377a",
+      "3e3d0e38-e440-4f0d-b352-a5b7f4eb71e6"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/Los_Angeles"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:22.836233",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_57034_NAME_0",
+    "location_key": "37.6989_-121.672",
+    "location_lat": 37.6989,
+    "location_lon": -121.672,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Rich Stapleton",
+      "Stapleton Rich"
+    ],
+    "company_ids": [
+      "0948468f-1cb8-4e28-99e2-66193bee6825",
+      "33db7d17-9dc6-4c35-9059-f806a0902b7c"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:24.663177",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_65205_NAME_0",
+    "location_key": "38.6503_-121.3272",
+    "location_lat": 38.6503,
+    "location_lon": -121.3272,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "JM BUILDERS",
+      "R Z BUILDERS"
+    ],
+    "company_ids": [
+      "069fe6ab-40ef-4b1b-8ece-37b39f1b6d60",
+      "2db677df-338a-423c-af9c-1c17d33c1814"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Los_Angeles",
+      "America/Los_Angeles"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:27.495088",
+    "manual_decision": "REJECTED",
+    "decision_reason": "manual_rejection"
+  },
+  {
+    "cluster_id": "LOC_66788_NAME_0",
+    "location_key": "38.8646_-91.3555",
+    "location_lat": 38.8646,
+    "location_lon": -91.3555,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "CONSTRUCTION LABORERS AND CONTRACTORS TRAINING CENTER",
+      "Laborers & Contractors Training Center"
+    ],
+    "company_ids": [
+      "72527fc0-0659-11ef-a990-a107e71bb8a2",
+      "981bf620-8b18-11ef-b9e6-55257703e86a"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:30.105197",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_68576_NAME_0",
+    "location_key": "39.188_-119.7489",
+    "location_lat": 39.188,
+    "location_lon": -119.7489,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Hemp Equipment",
+      "Be Hemp Equipment"
+    ],
+    "company_ids": [
+      "1de97d50-58b9-11ef-9038-61635e7f6200",
+      "7d01cd20-656f-11ef-a8df-71c732389c89"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:34.874634",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_72479_NAME_0",
+    "location_key": "39.9336_-82.9395",
+    "location_lat": 39.9336,
+    "location_lon": -82.9395,
+    "cluster_size": 3,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Zemba/Ohio Soil Recycling",
+      "Ohio Soil Recycling",
+      "Osr-Ohio Soil Recycling"
+    ],
+    "company_ids": [
+      "58c92a41-2b14-41d5-a411-75f2cbd9257b",
+      "6ed466ab-1a49-4915-9f9a-b555e7728882",
+      "e87ed414-2704-4c83-876a-1bbdc0ae55c8"
+    ],
+    "company_domains": [
+      null,
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:36.011260",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_73598_NAME_0",
+    "location_key": "40.0102_-75.0643",
+    "location_lat": 40.0102,
+    "location_lon": -75.0643,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Pursuit Metals Dba Absco Metals",
+      "Pursuit Dba  Absco Metals"
+    ],
+    "company_ids": [
+      "365b6345-900d-4001-abce-f1788980be0d",
+      "5953d44c-dd57-48d5-b030-df9cb291ff0b"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:37.605917",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_75573_NAME_0",
+    "location_key": "40.1896_-74.7847",
+    "location_lat": 40.1896,
+    "location_lon": -74.7847,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "LKQ Best Automotive Corp",
+      "LKQ Corportation - Best Automotive Corp"
+    ],
+    "company_ids": [
+      "8da91390-0e08-11ef-bdbf-1520ffe562d9",
+      "b4192e70-5011-11ef-91eb-9be0872c806a"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:40.083364",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_79501_NAME_0",
+    "location_key": "40.6169_-82.1257",
+    "location_lat": 40.6169,
+    "location_lon": -82.1257,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Pit-Holmes Lakeville",
+      "Pit-Lakeville (Holmes)"
+    ],
+    "company_ids": [
+      "332a9e40-41d1-428f-901f-4f538fa24772",
+      "943c9a41-96db-4d42-a15d-ae7ca68e011b"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:41.398257",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_79705_NAME_0",
+    "location_key": "40.6282_-96.9493",
+    "location_lat": 40.6282,
+    "location_lon": -96.9493,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "04 town country $400, Crete",
+      "05 Town and Country $400--Crete"
+    ],
+    "company_ids": [
+      "29a4ff80-4112-11ee-b0cb-693b07ff6252",
+      "3800c990-3c50-11ee-8fde-1f501ef872b7"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:43.303579",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_81879_NAME_0",
+    "location_key": "40.7723_-97.0463",
+    "location_lat": 40.7723,
+    "location_lon": -97.0463,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "01 Saturn SL1-$325 LOT Milford",
+      "01 SL1-$325 LOT Milford"
+    ],
+    "company_ids": [
+      "934bec80-cf3b-11ed-851c-fd101e6574e5",
+      "e91bd990-cf3b-11ed-8672-ad5f650c548c"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:44.962649",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_84107_NAME_0",
+    "location_key": "40.8363_-96.7196",
+    "location_lat": 40.8363,
+    "location_lon": -96.7196,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "E250 $475 L no cat ok",
+      "03 E250 $475 no cat ok L"
+    ],
+    "company_ids": [
+      "827485f0-477e-11ee-bb59-e5f97d76b3f8",
+      "dbb297b0-477e-11ee-a628-dfbb665ddf7c"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:46.029051",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_86751_NAME_0",
+    "location_key": "40.946_-96.7261",
+    "location_lat": 40.946,
+    "location_lon": -96.7261,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "07 Accord-$300 LOT Raymond",
+      "Accord $300 Raymond"
+    ],
+    "company_ids": [
+      "5c035790-5bc2-11ee-8d9f-bd6220fa5ee7",
+      "facab0d0-5974-11ee-8f44-9fa29908405d"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:48.474008",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_87083_NAME_0",
+    "location_key": "40.9846_-74.9898",
+    "location_lat": 40.9846,
+    "location_lon": -74.9898,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Auto Shop",
+      "The Auto Shop"
+    ],
+    "company_ids": [
+      "4793bdf0-58be-11ef-98dd-7f33c5ad5871",
+      "d4f0e3d0-7a6f-11ef-b6bf-e1f9212cd388"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:50.030442",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_87174_NAME_1",
+    "location_key": "40.9938_-80.3477",
+    "location_lat": 40.9938,
+    "location_lon": -80.3477,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Weitsman of New Castle",
+      "Ben Weitsman of New Castle"
+    ],
+    "company_ids": [
+      "49247490-acc7-11ef-8468-39176ccbfda1",
+      "e526df90-7d15-11ef-8610-cda6cdc39644"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:51.230720",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_93254_NAME_0",
+    "location_key": "41.235_-95.9308",
+    "location_lat": 41.235,
+    "location_lon": -95.9308,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "E250 $525",
+      "97 E250 $525"
+    ],
+    "company_ids": [
+      "5c4bec00-3df7-11ee-bc77-eb54b8c83503",
+      "fd561e40-3df7-11ee-a6b3-1dce44beff9b"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:52.975817",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_94261_NAME_0",
+    "location_key": "41.2528_-95.8973",
+    "location_lat": 41.2528,
+    "location_lon": -95.8973,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "01 taurus $500",
+      "94 Taurus-$500 CB"
+    ],
+    "company_ids": [
+      "4bfff3e0-d49e-11ed-916c-43442ada7bc6",
+      "f87704f0-d8a0-11ed-b9e0-b5eccdc01dc2"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:53.879227",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_96226_NAME_0",
+    "location_key": "41.2803_-96.2828",
+    "location_lat": 41.2803,
+    "location_lon": -96.2828,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "02 Ford Explorer - $450 OT Waterloo",
+      "02 Explorer - $450 OT Waterloo"
+    ],
+    "company_ids": [
+      "74f3ed80-69df-11ed-9ba5-6b3760f9cdca",
+      "e8f457a0-6a62-11ed-b153-5502c6eb5d86"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:54.560358",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_97459_NAME_0",
+    "location_key": "41.2948_-96.0087",
+    "location_lat": 41.2948,
+    "location_lon": -96.0087,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "03 200-$400",
+      "11 200-$400"
+    ],
+    "company_ids": [
+      "10a0b2d0-5630-11ee-9b87-c3160ec0f22f",
+      "93da4bc0-5630-11ee-a517-ade1725e8e98"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:55.200132",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_98469_NAME_0",
+    "location_key": "41.3124_-75.836",
+    "location_lat": 41.3124,
+    "location_lon": -75.836,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "M&M Automotive",
+      "A Automotive"
+    ],
+    "company_ids": [
+      "122a80fd-3cfe-4245-a411-f28d9052193e",
+      "1f7ffeef-323b-45c9-8133-cfdfb272aa40"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:04:55.844522",
+    "manual_decision": "REJECTED",
+    "decision_reason": "manual_rejection"
+  },
+  {
+    "cluster_id": "LOC_110874_NAME_0",
+    "location_key": "42.0475_-88.1068",
+    "location_lat": 42.0475,
+    "location_lon": -88.1068,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Zeigler Infiniti of Hoffman Estates",
+      "Infiniti of Hoffman Estates"
+    ],
+    "company_ids": [
+      "5913098d-a780-440f-83f8-1dca029a1499",
+      "c94ff9fb-9efd-44a6-ab52-ac348c8f67a1"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:00.076010",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_112414_NAME_0",
+    "location_key": "42.1457_-75.8851",
+    "location_lat": 42.1457,
+    "location_lon": -75.8851,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "TJ MADISON",
+      "K. MADISON - TJ MADISON"
+    ],
+    "company_ids": [
+      "85de7471-8e66-45be-a43a-79ee4c4f2960",
+      "b8c46758-bc07-4bfc-912e-ab537ded42ae"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:05.001352",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_113576_NAME_0",
+    "location_key": "42.2804_-89.1744",
+    "location_lat": 42.2804,
+    "location_lon": -89.1744,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "TRAILER Green Road Tire Recycling",
+      "Green Tire Recycling Trailer"
+    ],
+    "company_ids": [
+      "ab93dd19-c43c-49f4-a41b-9ce9c839023f",
+      "c063eb46-08ed-42aa-bde9-52914028fa07"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:07.247865",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_113690_NAME_0",
+    "location_key": "42.293_-83.1265",
+    "location_lat": 42.293,
+    "location_lon": -83.1265,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Fort Iron & Metal",
+      "Ccma/Fort Iron & Metal"
+    ],
+    "company_ids": [
+      "23659c3a-9762-4411-a098-33890ec61f55",
+      "f31e9695-1061-46c0-939b-29a3ec1cb391"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:08.892322",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_114575_NAME_0",
+    "location_key": "42.3766_-87.8982",
+    "location_lat": 42.3766,
+    "location_lon": -87.8982,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "I.D. Auto Service",
+      "H&S Auto Service"
+    ],
+    "company_ids": [
+      "02c94947-d6e5-4d31-8db8-9bd79c0c32d6",
+      "7024f409-af16-46a7-af84-43bd25287ebf"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:10.193646",
+    "manual_decision": "REJECTED",
+    "decision_reason": "manual_rejection"
+  },
+  {
+    "cluster_id": "LOC_118089_NAME_0",
+    "location_key": "42.6252_-73.7595",
+    "location_lat": 42.6252,
+    "location_lon": -73.7595,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Albany Weitsman",
+      "Weitsman of Albany"
+    ],
+    "company_ids": [
+      "2a2d6940-b341-11ef-9861-c9e4cbdd550d",
+      "e11ddb80-8d5d-11ef-b733-4d3e12ee94ad"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:11.934522",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_119413_NAME_0",
+    "location_key": "42.7205_-87.8847",
+    "location_lat": 42.7205,
+    "location_lon": -87.8847,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Byrider Mount Pleasant",
+      "J.D. Byrider Mount Pleasant"
+    ],
+    "company_ids": [
+      "a81f7536-8e71-4245-90f7-ed6d85eae57c",
+      "ac3d1f13-7c15-4bd0-bcb6-ea859f56441c"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:14.816934",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_132090_NAME_0",
+    "location_key": "43.9869_-80.6721",
+    "location_lat": 43.9869,
+    "location_lon": -80.6721,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "FREY LAVERNE",
+      "LAVERNE FREY"
+    ],
+    "company_ids": [
+      "700429b0-0975-11f0-8031-fb082fb28de8",
+      "aa0cd940-485a-11ef-b239-b95995d8d967"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:17.950719",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_134099_NAME_0",
+    "location_key": "44.4159_-118.9475",
+    "location_lat": 44.4159,
+    "location_lon": -118.9475,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Johnday Public Works",
+      "City Of Johnday Public Works"
+    ],
+    "company_ids": [
+      "14e550dd-f03b-49cf-976d-797d828bd27b",
+      "617a609f-de85-4552-815a-68f4cdb2abc0"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Boise",
+      "America/Boise"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:20.515657",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_135604_NAME_0",
+    "location_key": "45.2049_-93.5773",
+    "location_lat": 45.2049,
+    "location_lon": -93.5773,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Veit and Company",
+      "Veit"
+    ],
+    "company_ids": [
+      "2a736c90-895f-11ee-8443-87fe36bfd4da",
+      "375c7f60-276e-11f0-877c-53f97ed1a0e4"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/New_York",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:21.662365",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_149780_NAME_0",
+    "location_key": "53.1791_-105.762",
+    "location_lat": 53.1791,
+    "location_lon": -105.762,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "Canadian Tire Alex Joannides Holdings Inc",
+      "Alex Joannides Holdings Inc(Canadian Tire)"
+    ],
+    "company_ids": [
+      "7d616bbf-b25a-4de0-a176-daccbdecc9bc",
+      "ea0f2d30-4617-11ef-8e4c-479d77691bf2"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Edmonton",
+      "America/New_York"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:22.641021",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  },
+  {
+    "cluster_id": "LOC_154973_NAME_8",
+    "location_key": "56.0701_-118.3923",
+    "location_lat": 56.0701,
+    "location_lon": -118.3923,
+    "cluster_size": 2,
+    "avg_confidence": 0.5916666666666667,
+    "max_confidence": 0.5916666666666667,
+    "min_confidence": 0.5916666666666667,
+    "confidence_level": "LOW",
+    "num_edges": 0,
+    "company_names": [
+      "KERSCHBAUMER, TREVOR",
+      "TREVOR KERSCHBAUMER"
+    ],
+    "company_ids": [
+      "54948c97-4e7d-4f6d-a6e1-11dcff133232",
+      "e947ec05-a20d-4e30-9021-1d8461fef629"
+    ],
+    "company_domains": [
+      null,
+      null
+    ],
+    "timezones": [
+      "America/Edmonton",
+      "America/Edmonton"
+    ],
+    "methods_agreeing": [
+      "jaccard_fuzzy"
+    ],
+    "timestamp": "2025-07-10T15:05:25.514718",
+    "manual_decision": "APPROVED",
+    "decision_reason": "manual_approval"
+  }
+]
