@@ -4,6 +4,7 @@ from fuzzywuzzy import fuzz
 import jellyfish
 from doublemetaphone import doublemetaphone
 import os
+import sys
 
 # 1. Define the 11 target groups
 TARGET_GROUPS = [
@@ -122,88 +123,119 @@ def calculate_ensemble_confidence(name, group):
     return min(confidence, 1.0)  # Cap at 1.0
 
 def main():
-    # 5. Load material groups from DB
-    utils = SharedDeduplicationUtils()
-    engine = utils.create_database_connection()
-    query = """
-        SELECT materialGroupId, materialGroupName
-        FROM rematter_default.material_group
-    """
-    df = pd.read_sql(query, engine)
-    print(f"Loaded {len(df)} material groups from database.")
+    try:
+        # 5. Load material groups from DB
+        utils = SharedDeduplicationUtils()
+        engine = utils.create_database_connection()
+        query = """
+            SELECT materialGroupId, materialGroupName
+            FROM rematter_default.material_group
+        """
+        df = pd.read_sql(query, engine)
+        print(f"Loaded {len(df)} material groups from database.")
 
-    # 6. Cluster/group assignment with manual approval
-    clusters_by_id = {group: [] for group in TARGET_GROUPS}
-    clusters_by_name = {group: [] for group in TARGET_GROUPS}
-    print("\nProcessing material group assignments:")
-    print("- Auto-approving: confidence >= 0.9")
-    print("- Manual approval: 0.5 < confidence < 0.9")
-    print("- Auto-rejecting: confidence <= 0.5")
-    
-    for group in TARGET_GROUPS:
-        print(f"\n=== {group} ===")
-        group_rows = df[df.apply(lambda row: assign_group(row['materialGroupName']) == group, axis=1)]
-        
-        for _, row in group_rows.iterrows():
+        # 6. Pre-process all assignments for better performance
+        print("\nPre-processing material group assignments...")
+        assignments = []
+        for _, row in df.iterrows():
             name = row['materialGroupName']
             mgid = row['materialGroupId']
+            assigned_group = assign_group(name)
+            if assigned_group:
+                confidence = calculate_ensemble_confidence(name, assigned_group)
+                assignments.append({
+                    'name': name,
+                    'mgid': mgid,
+                    'group': assigned_group,
+                    'confidence': confidence
+                })
+
+        # Group assignments by target group
+        assignments_by_group = {}
+        for assignment in assignments:
+            group = assignment['group']
+            if group not in assignments_by_group:
+                assignments_by_group[group] = []
+            assignments_by_group[group].append(assignment)
+
+        # 7. Cluster/group assignment with manual approval
+        clusters_by_id = {group: [] for group in TARGET_GROUPS}
+        clusters_by_name = {group: [] for group in TARGET_GROUPS}
+        print("\nProcessing material group assignments:")
+        print("- Auto-approving: confidence >= 0.9")
+        print("- Manual approval: 0.5 < confidence < 0.9")
+        print("- Auto-rejecting: confidence <= 0.5")
+        
+        for group in TARGET_GROUPS:
+            print(f"\n=== {group} ===")
+            group_assignments = assignments_by_group.get(group, [])
             
-            # Calculate confidence for this assignment
-            confidence = calculate_ensemble_confidence(name, group)
-            
-            if confidence >= 0.9:
-                # High confidence - auto approve
-                print(f"  ✓ Auto-approved '{name}' (ID: {mgid}) for group '{group}' (confidence: {confidence:.3f})")
-                clusters_by_id[group].append(mgid)
-                clusters_by_name[group].append(name)
-            elif confidence <= 0.5:
-                # Low confidence - auto reject
-                print(f"  ✗ Auto-rejected '{name}' (ID: {mgid}) for group '{group}' (confidence: {confidence:.3f})")
-            else:
-                # Medium confidence - manual approval needed
-                while True:
-                    response = input(f"Approve '{name}' (ID: {mgid}) for group '{group}'? (confidence: {confidence:.3f}) (y/n): ").lower().strip()
-                    if response in ['y', 'yes']:
-                        print(f"  ✓ Approved")
-                        clusters_by_id[group].append(mgid)
-                        clusters_by_name[group].append(name)
-                        break
-                    elif response in ['n', 'no']:
-                        print(f"  ✗ Rejected")
-                        break
-                    else:
-                        print("Please enter 'y' or 'n'")
+            for assignment in group_assignments:
+                name = assignment['name']
+                mgid = assignment['mgid']
+                confidence = assignment['confidence']
+                
+                if confidence >= 0.9:
+                    # High confidence - auto approve
+                    print(f"  ✓ Auto-approved '{name}' (ID: {mgid}) for group '{group}' (confidence: {confidence:.3f})")
+                    clusters_by_id[group].append(mgid)
+                    clusters_by_name[group].append(name)
+                elif confidence <= 0.5:
+                    # Low confidence - auto reject
+                    print(f"  ✗ Auto-rejected '{name}' (ID: {mgid}) for group '{group}' (confidence: {confidence:.3f})")
+                else:
+                    # Medium confidence - manual approval needed
+                    while True:
+                        response = input(f"Approve '{name}' (ID: {mgid}) for group '{group}'? (confidence: {confidence:.3f}) (y/n): ").lower().strip()
+                        if response in ['y', 'yes']:
+                            print(f"  ✓ Approved")
+                            clusters_by_id[group].append(mgid)
+                            clusters_by_name[group].append(name)
+                            break
+                        elif response in ['n', 'no']:
+                            print(f"  ✗ Rejected")
+                            break
+                        else:
+                            print("Please enter 'y' or 'n'")
 
-    # Remove empty groups
-    clusters_by_id = {k: v for k, v in clusters_by_id.items() if v}
-    clusters_by_name = {k: v for k, v in clusters_by_name.items() if v}
+        # Remove empty groups
+        clusters_by_id = {k: v for k, v in clusters_by_id.items() if v}
+        clusters_by_name = {k: v for k, v in clusters_by_name.items() if v}
 
-    # 7. Output CSVs
-    outdir = os.path.dirname(__file__)
-    id_csv = os.path.join(outdir, 'material_group_clusters_by_id.csv')
-    name_csv = os.path.join(outdir, 'material_group_clusters_by_name.csv')
+        # 8. Output CSVs with error handling
+        outdir = os.path.dirname(__file__)
+        id_csv = os.path.join(outdir, 'material_group_clusters_by_id.csv')
+        name_csv = os.path.join(outdir, 'material_group_clusters_by_name.csv')
 
-    # Prepare DataFrames
-    df_id = pd.DataFrame({
-        'group': list(clusters_by_id.keys()),
-        'materialGroupIds': [v for v in clusters_by_id.values()]
-    })
-    df_name = pd.DataFrame({
-        'group': list(clusters_by_name.keys()),
-        'materialGroupNames': [v for v in clusters_by_name.values()]
-    })
+        # Prepare DataFrames
+        df_id = pd.DataFrame({
+            'group': list(clusters_by_id.keys()),
+            'materialGroupIds': [v for v in clusters_by_id.values()]
+        })
+        df_name = pd.DataFrame({
+            'group': list(clusters_by_name.keys()),
+            'materialGroupNames': [v for v in clusters_by_name.values()]
+        })
 
-    df_id.to_csv(id_csv, index=False)
-    df_name.to_csv(name_csv, index=False)
-    print(f"\nSaved clusters by ID to: {id_csv}")
-    print(f"Saved clusters by Name to: {name_csv}")
+        try:
+            df_id.to_csv(id_csv, index=False)
+            df_name.to_csv(name_csv, index=False)
+            print(f"\nSaved clusters by ID to: {id_csv}")
+            print(f"Saved clusters by Name to: {name_csv}")
+        except Exception as e:
+            print(f"Error saving CSV files: {e}")
+            sys.exit(1)
 
-    # Only print clusters by name to stdout
-    print("\nMaterial Group Clusters (by Name):")
-    for group, names in clusters_by_name.items():
-        print(f"\n=== {group} ===")
-        for n in sorted(set(names)):
-            print(f"  - {n}")
+        # Only print clusters by name to stdout
+        print("\nMaterial Group Clusters (by Name):")
+        for group, names in clusters_by_name.items():
+            print(f"\n=== {group} ===")
+            for n in sorted(set(names)):
+                print(f"  - {n}")
+
+    except Exception as e:
+        print(f"Error in main execution: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main() 
