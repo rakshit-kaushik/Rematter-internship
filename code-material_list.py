@@ -6,10 +6,10 @@ from doublemetaphone import doublemetaphone
 import os
 import sys
 
-# 1. Define the 11 target groups
+# 1. Define the 12 target groups
 TARGET_GROUPS = [
     'Aluminum', 'Brass', 'Lead', 'Electronics', 'Copper', 'ICW',
-    'Steel', 'Autos', 'Stainless', 'Alloys', 'Other'
+    'Steel', 'Autos', 'Stainless', 'Alloys', 'Electric Motors', 'Other'
 ]
 
 # 2. Clean and normalize group names (reuse company cleaning logic)
@@ -161,8 +161,12 @@ def main():
         # 7. Cluster/group assignment with manual approval
         clusters_by_id = {group: [] for group in TARGET_GROUPS}
         clusters_by_name = {group: [] for group in TARGET_GROUPS}
+        # Track manually approved names for auto-approval of exact matches
+        manually_approved_names = set()
+        
         print("\nProcessing material group assignments:")
         print("- Auto-approving: confidence >= 0.9")
+        print("- Auto-approving: exact match (case-insensitive) to previously approved names")
         print("- Manual approval: 0.5 < confidence < 0.9")
         print("- Auto-rejecting: confidence <= 0.5")
         
@@ -184,19 +188,28 @@ def main():
                     # Low confidence - auto reject
                     print(f"  ✗ Auto-rejected '{name}' (ID: {mgid}) for group '{group}' (confidence: {confidence:.3f})")
                 else:
-                    # Medium confidence - manual approval needed
-                    while True:
-                        response = input(f"Approve '{name}' (ID: {mgid}) for group '{group}'? (confidence: {confidence:.3f}) (y/n): ").lower().strip()
-                        if response in ['y', 'yes']:
-                            print(f"  ✓ Approved")
-                            clusters_by_id[group].append(mgid)
-                            clusters_by_name[group].append(name)
-                            break
-                        elif response in ['n', 'no']:
-                            print(f"  ✗ Rejected")
-                            break
-                        else:
-                            print("Please enter 'y' or 'n'")
+                    # Check if this is an exact match (case-insensitive) to a previously approved name
+                    name_lower = name.lower()
+                    if name_lower in manually_approved_names:
+                        print(f"  ✓ Auto-approved '{name}' (ID: {mgid}) for group '{group}' (exact match to previously approved)")
+                        clusters_by_id[group].append(mgid)
+                        clusters_by_name[group].append(name)
+                    else:
+                        # Medium confidence - manual approval needed
+                        while True:
+                            response = input(f"Approve '{name}' (ID: {mgid}) for group '{group}'? (confidence: {confidence:.3f}) (y/n): ").lower().strip()
+                            if response in ['y', 'yes']:
+                                print(f"  ✓ Approved")
+                                clusters_by_id[group].append(mgid)
+                                clusters_by_name[group].append(name)
+                                # Add to manually approved set for future auto-approval
+                                manually_approved_names.add(name_lower)
+                                break
+                            elif response in ['n', 'no']:
+                                print(f"  ✗ Rejected")
+                                break
+                            else:
+                                print("Please enter 'y' or 'n'")
 
         # Remove empty groups
         clusters_by_id = {k: v for k, v in clusters_by_id.items() if v}
